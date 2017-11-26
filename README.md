@@ -8,3 +8,5 @@ cd markdown-gulp
 npm install
 npm run watch
 ```
+
+Please put your markdown files in src folder.
