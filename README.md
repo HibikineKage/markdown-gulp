@@ -3,7 +3,7 @@ Convert markdown files to html.
 
 # How to use
 ```
-git clone https://github.com/HibikineKage/markdown-gulp.git
+git clone --depth 1 https://github.com/HibikineKage/markdown-gulp.git
 cd markdown-gulp
 npm install
 npm run watch
